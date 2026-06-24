@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0617-merge-two-binary-trees) |
+| [0938-range-sum-of-bst](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0617-merge-two-binary-trees) |
+| [0938-range-sum-of-bst](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -17,4 +19,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0617-merge-two-binary-trees) |
+| [0938-range-sum-of-bst](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0938-range-sum-of-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
