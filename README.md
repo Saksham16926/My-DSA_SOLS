@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0322-coin-change) |
 | [0617-merge-two-binary-trees](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0518-coin-change-ii) |
 ## Dynamic Programming
 |  |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0518-coin-change-ii) |
 ## Math
 |  |
