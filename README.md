@@ -38,5 +38,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
