@@ -33,11 +33,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0300-longest-increasing-subsequence) |
 ## Math
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0279-perfect-squares) |
+## Hash Table
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0264-ugly-number-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
