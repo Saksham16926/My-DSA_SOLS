@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0413-arithmetic-slices) |
 | [0516-longest-palindromic-subsequence](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0518-coin-change-ii) |
+| [1025-divisor-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1025-divisor-game) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 ## Math
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0368-largest-divisible-subset) |
+| [1025-divisor-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1025-divisor-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -139,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0413-arithmetic-slices](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0413-arithmetic-slices) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
