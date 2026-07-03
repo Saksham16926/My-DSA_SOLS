@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0403-frog-jump) |
+| [0413-arithmetic-slices](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0413-arithmetic-slices) |
 | [0518-coin-change-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0518-coin-change-ii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 ## Dynamic Programming
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0403-frog-jump) |
+| [0413-arithmetic-slices](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0413-arithmetic-slices) |
 | [0516-longest-palindromic-subsequence](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0518-coin-change-ii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -135,5 +137,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0413-arithmetic-slices) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 <!---LeetCode Topics End-->
