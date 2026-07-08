@@ -8,7 +8,7 @@ class Solution {
         if(n == 1) return 0;
         if(map.containsKey(n)) return map.get(n);
 
-        long steps;
+        long steps = 0;
         if( n % 2 == 0){
             steps = 1 + helper(n/2);
         }else{
