@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0396-rotate-function) |
+| [0397-integer-replacement](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0416-partition-equal-subset-sum) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0045-jump-game-ii) |
+| [0397-integer-replacement](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0397-integer-replacement) |
 ## Two Pointers
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0139-word-break) |
+| [0397-integer-replacement](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0397-integer-replacement) |
 ## Sliding Window
 |  |
 | ------- |
@@ -168,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1025-divisor-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
