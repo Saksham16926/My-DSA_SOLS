@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0337-house-robber-iii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0337-house-robber-iii) |
 | [0617-merge-two-binary-trees](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0617-merge-two-binary-trees) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0337-house-robber-iii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0337-house-robber-iii) |
 | [0617-merge-two-binary-trees](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0617-merge-two-binary-trees) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0045-jump-game-ii) |
 | [0088-merge-sorted-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0139-word-break) |
 | [0264-ugly-number-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0264-ugly-number-ii) |
 ## Heap (Priority Queue)
@@ -175,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0397-integer-replacement) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
