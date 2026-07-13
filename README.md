@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0542-01-matrix) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1219-path-with-maximum-gold](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1219-path-with-maximum-gold) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0089-gray-code) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0357-count-numbers-with-unique-digits) |
+| [1219-path-with-maximum-gold](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1219-path-with-maximum-gold) |
 ## Sorting
 |  |
 | ------- |
@@ -201,4 +203,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0542-01-matrix) |
+| [1219-path-with-maximum-gold](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1219-path-with-maximum-gold) |
 <!---LeetCode Topics End-->
