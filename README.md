@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0542-01-matrix) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1219-path-with-maximum-gold](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1219-path-with-maximum-gold) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0396-rotate-function) |
 | [1025-divisor-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1025-divisor-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0143-reorder-list) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Trie
 |  |
 | ------- |
@@ -213,4 +216,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0542-01-matrix](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0542-01-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1219-path-with-maximum-gold) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Simulation
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
