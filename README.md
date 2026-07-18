@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0368-largest-divisible-subset) |
+| [0390-elimination-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0396-rotate-function) |
 | [1025-divisor-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1025-divisor-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0143-reorder-list) |
+| [0390-elimination-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0390-elimination-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Trie
 |  |
