@@ -7,20 +7,16 @@ class Solution {
         if(highest % lowest == 0){
             return lowest;
         }
-
-
         return helper(lowest , highest);
 
 
     }
 
-    public int helper(int x , int y){
-        if(y % x == 0){
-            return x;
-        }
-        int rem = y % x;
-        int res = helper(y % x , x);
-        return res;
-    
+    public int helper(int x, int y) {
+    int rem = y % x;
+    if (rem == 0) {
+        return x;
     }
+    return helper(rem, x); 
+   }
 }
