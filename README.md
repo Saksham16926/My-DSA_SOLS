@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0542-01-matrix) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0646-maximum-length-of-pair-chain) |
 | [0931-minimum-falling-path-sum](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0931-minimum-falling-path-sum) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1219-path-with-maximum-gold](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1219-path-with-maximum-gold) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0542-01-matrix) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0647-palindromic-substrings) |
 | [0931-minimum-falling-path-sum](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0931-minimum-falling-path-sum) |
 | [1025-divisor-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1025-divisor-game) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0045-jump-game-ii) |
 | [0397-integer-replacement](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0646-maximum-length-of-pair-chain) |
 ## Two Pointers
 |  |
 | ------- |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0088-merge-sorted-array) |
 | [0368-largest-divisible-subset](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0646-maximum-length-of-pair-chain) |
 ## Linked List
 |  |
 | ------- |
