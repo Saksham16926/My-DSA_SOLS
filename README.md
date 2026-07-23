@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0051-n-queens) |
 | [0088-merge-sorted-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0089-gray-code) |
