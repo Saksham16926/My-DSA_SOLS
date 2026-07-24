@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0079-word-search) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0337-house-robber-iii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0337-house-robber-iii) |
 | [0617-merge-two-binary-trees](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0617-merge-two-binary-trees) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0044-wildcard-matching](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0044-wildcard-matching) |
+| [0079-word-search](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0139-word-break) |
 | [0516-longest-palindromic-subsequence](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0516-longest-palindromic-subsequence) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0089-gray-code) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0494-target-sum) |
@@ -258,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0079-word-search) |
 | [0542-01-matrix](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0542-01-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0931-minimum-falling-path-sum) |
 | [1219-path-with-maximum-gold](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1219-path-with-maximum-gold) |
