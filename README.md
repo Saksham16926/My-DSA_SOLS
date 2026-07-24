@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0079-word-search) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0337-house-robber-iii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0337-house-robber-iii) |
+| [0547-number-of-provinces](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0617-merge-two-binary-trees) |
 | [0797-all-paths-from-source-to-target](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0797-all-paths-from-source-to-target) |
 | [0938-range-sum-of-bst](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0938-range-sum-of-bst) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0617-merge-two-binary-trees) |
 | [0797-all-paths-from-source-to-target](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1971-find-if-path-exists-in-graph) |
@@ -281,10 +283,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1971-find-if-path-exists-in-graph) |
 ## Prefix Sum
