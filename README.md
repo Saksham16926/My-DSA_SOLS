@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0139-word-break) |
 | [0264-ugly-number-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0264-ugly-number-ii) |
+| [1079-letter-tile-possibilities](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1079-letter-tile-possibilities) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Heap (Priority Queue)
 |  |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1079-letter-tile-possibilities](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1079-letter-tile-possibilities) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2896-apply-operations-to-make-two-strings-equal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/2896-apply-operations-to-make-two-strings-equal) |
 ## Backtracking
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0797-all-paths-from-source-to-target) |
+| [1079-letter-tile-possibilities](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1079-letter-tile-possibilities) |
 | [1219-path-with-maximum-gold](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1219-path-with-maximum-gold) |
 ## Sorting
 |  |
@@ -302,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1525-number-of-good-ways-to-split-a-string) |
+## Counting
+|  |
+| ------- |
+| [1079-letter-tile-possibilities](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1079-letter-tile-possibilities) |
 <!---LeetCode Topics End-->
