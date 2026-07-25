@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0088-merge-sorted-array) |
 | [0368-largest-divisible-subset](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0435-non-overlapping-intervals) |
