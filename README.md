@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0045-jump-game-ii) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0200-number-of-islands) |
