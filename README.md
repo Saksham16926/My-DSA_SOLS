@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0377-combination-sum-iv](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0397-integer-replacement) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0390-elimination-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0628-maximum-product-of-three-numbers) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1025-divisor-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1025-divisor-game) |
 ## Bit Manipulation
 |  |
