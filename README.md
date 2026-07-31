@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1025-divisor-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0646-maximum-length-of-pair-chain) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-letter-tile-possibilities](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1079-letter-tile-possibilities) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2896-apply-operations-to-make-two-strings-equal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/2896-apply-operations-to-make-two-strings-equal) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Backtracking
 |  |
 | ------- |
