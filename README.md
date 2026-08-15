@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0337-house-robber-iii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0337-house-robber-iii) |
 | [0617-merge-two-binary-trees](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0617-merge-two-binary-trees) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0079-word-search) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0200-number-of-islands) |
 | [0337-house-robber-iii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0337-house-robber-iii) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0337-house-robber-iii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0337-house-robber-iii) |
 | [0617-merge-two-binary-trees](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0617-merge-two-binary-trees) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0045-jump-game-ii) |
 | [0097-interleaving-string](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0115-distinct-subsequences) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -352,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0084-largest-rectangle-in-histogram) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
