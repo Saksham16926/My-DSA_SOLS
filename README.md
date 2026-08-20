@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0313-super-ugly-number](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0313-super-ugly-number) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0238-product-of-array-except-self) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Counting
 |  |
