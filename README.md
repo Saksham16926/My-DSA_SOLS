@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0099-recover-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0300-longest-increasing-subsequence) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0139-word-break) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0174-dungeon-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0189-rotate-array) |
