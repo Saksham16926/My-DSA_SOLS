@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0617-merge-two-binary-trees) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0938-range-sum-of-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0797-all-paths-from-source-to-target](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0797-all-paths-from-source-to-target) |
 | [0938-range-sum-of-bst](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0938-range-sum-of-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0617-merge-two-binary-trees) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0797-all-paths-from-source-to-target](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0797-all-paths-from-source-to-target) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0617-merge-two-binary-trees) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0938-range-sum-of-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
@@ -223,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0264-ugly-number-ii) |
 | [0508-most-frequent-subtree-sum](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0508-most-frequent-subtree-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1079-letter-tile-possibilities](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1079-letter-tile-possibilities) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -301,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0646-maximum-length-of-pair-chain) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/3536-maximum-product-of-two-digits) |
 ## Linked List
