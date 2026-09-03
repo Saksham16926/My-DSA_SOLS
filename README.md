@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0143-reorder-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0328-odd-even-linked-list) |
 ## Stack
 |  |
 | ------- |
