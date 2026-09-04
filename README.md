@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0189-rotate-array) |
 | [0647-palindromic-substrings](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0647-palindromic-substrings) |
 ## String
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0217-contains-duplicate) |
 | [0368-largest-divisible-subset](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0435-non-overlapping-intervals) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0086-partition-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0328-odd-even-linked-list) |
 ## Stack
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0148-sort-list](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0148-sort-list) |
 ## Matrix
 |  |
 | ------- |
@@ -439,4 +443,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
