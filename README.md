@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0623-add-one-row-to-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0652-find-duplicate-subtrees) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0623-add-one-row-to-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0652-find-duplicate-subtrees) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0797-all-paths-from-source-to-target](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0797-all-paths-from-source-to-target) |
 | [0938-range-sum-of-bst](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0938-range-sum-of-bst) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0623-add-one-row-to-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0652-find-duplicate-subtrees) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0264-ugly-number-ii) |
 | [0508-most-frequent-subtree-sum](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0508-most-frequent-subtree-sum) |
+| [0652-find-duplicate-subtrees](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0652-find-duplicate-subtrees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1079-letter-tile-possibilities](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1079-letter-tile-possibilities) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
