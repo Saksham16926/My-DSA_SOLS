@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0437-path-sum-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0508-most-frequent-subtree-sum) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0437-path-sum-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0508-most-frequent-subtree-sum) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0139-word-break) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0583-delete-operation-for-two-strings) |
 | [0606-construct-string-from-binary-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0606-construct-string-from-binary-tree) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0143-reorder-list) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Recursion
 |  |
 | ------- |
