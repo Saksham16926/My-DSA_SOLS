@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0136-single-number](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0174-dungeon-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0174-dungeon-game) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0089-gray-code) |
+| [0136-single-number](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0136-single-number) |
 | [0397-integer-replacement](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0397-integer-replacement) |
 | [0980-unique-paths-iii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0980-unique-paths-iii) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1525-number-of-good-ways-to-split-a-string) |
