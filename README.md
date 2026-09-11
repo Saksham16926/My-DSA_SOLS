@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0646-maximum-length-of-pair-chain) |
 | [0931-minimum-falling-path-sum](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0931-minimum-falling-path-sum) |
+| [0980-unique-paths-iii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0980-unique-paths-iii) |
 | [0983-minimum-cost-for-tickets](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0983-minimum-cost-for-tickets) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0797-all-paths-from-source-to-target) |
+| [0980-unique-paths-iii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0980-unique-paths-iii) |
 | [1079-letter-tile-possibilities](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1079-letter-tile-possibilities) |
 | [1219-path-with-maximum-gold](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1219-path-with-maximum-gold) |
 ## Sorting
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0089-gray-code) |
 | [0397-integer-replacement](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0397-integer-replacement) |
+| [0980-unique-paths-iii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0980-unique-paths-iii) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Divide and Conquer
 |  |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0542-01-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0931-minimum-falling-path-sum) |
+| [0980-unique-paths-iii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1219-path-with-maximum-gold) |
 ## Queue
 |  |
@@ -506,4 +510,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/3483-unique-3-digit-even-numbers) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
