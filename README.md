@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3693-climbing-stairs-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/3693-climbing-stairs-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-letter-tile-possibilities](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1079-letter-tile-possibilities) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/3483-unique-3-digit-even-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0143-reorder-list) |
 | [0390-elimination-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0390-elimination-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/3483-unique-3-digit-even-numbers) |
 ## Trie
 |  |
 | ------- |
@@ -495,4 +498,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0354-russian-doll-envelopes) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
