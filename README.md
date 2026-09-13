@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0646-maximum-length-of-pair-chain) |
+| [0835-image-overlap](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0931-minimum-falling-path-sum) |
 | [0942-di-string-match](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0942-di-string-match) |
 | [0980-unique-paths-iii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0980-unique-paths-iii) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0542-01-matrix) |
+| [0835-image-overlap](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1219-path-with-maximum-gold) |
