@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0652-find-duplicate-subtrees) |
 | [0733-flood-fill](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0797-all-paths-from-source-to-target) |
 | [0938-range-sum-of-bst](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0938-range-sum-of-bst) |
 | [0968-binary-tree-cameras](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0968-binary-tree-cameras) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0623-add-one-row-to-tree) |
 | [0733-flood-fill](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0797-all-paths-from-source-to-target) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1971-find-if-path-exists-in-graph) |
@@ -473,12 +475,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -535,4 +539,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0561-array-partition) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
