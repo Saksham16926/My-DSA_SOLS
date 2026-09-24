@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0652-find-duplicate-subtrees) |
 | [0733-flood-fill](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0797-all-paths-from-source-to-target) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0623-add-one-row-to-tree) |
 | [0733-flood-fill](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0797-all-paths-from-source-to-target) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0264-ugly-number-ii) |
+| [0743-network-delay-time](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0743-network-delay-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Greedy
 |  |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1971-find-if-path-exists-in-graph) |
@@ -550,4 +554,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0785-is-graph-bipartite) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
