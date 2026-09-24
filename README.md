@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [1034-coloring-a-border](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1034-coloring-a-border) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0797-all-paths-from-source-to-target) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0994-rotting-oranges) |
+| [1034-coloring-a-border](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1034-coloring-a-border) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Binary Tree
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1034-coloring-a-border](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1034-coloring-a-border) |
 | [1219-path-with-maximum-gold](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1219-path-with-maximum-gold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0994-rotting-oranges) |
+| [1034-coloring-a-border](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1034-coloring-a-border) |
 | [1219-path-with-maximum-gold](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1219-path-with-maximum-gold) |
 ## Queue
 |  |
