@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1034-coloring-a-border) |
+| [1162-as-far-from-land-as-possible](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1162-as-far-from-land-as-possible) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Binary Tree
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1020-number-of-enclaves) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1034-coloring-a-border](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1034-coloring-a-border) |
+| [1162-as-far-from-land-as-possible](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1162-as-far-from-land-as-possible) |
 | [1219-path-with-maximum-gold](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1219-path-with-maximum-gold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0983-minimum-cost-for-tickets) |
 | [1025-divisor-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1025-divisor-game) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1162-as-far-from-land-as-possible](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1162-as-far-from-land-as-possible) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2896-apply-operations-to-make-two-strings-equal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/2896-apply-operations-to-make-two-strings-equal) |
 | [3693-climbing-stairs-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/3693-climbing-stairs-ii) |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1034-coloring-a-border) |
+| [1162-as-far-from-land-as-possible](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1162-as-far-from-land-as-possible) |
 | [1219-path-with-maximum-gold](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1219-path-with-maximum-gold) |
 ## Queue
 |  |
