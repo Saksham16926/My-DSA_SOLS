@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0942-di-string-match) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1079-letter-tile-possibilities](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1079-letter-tile-possibilities) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2896-apply-operations-to-make-two-strings-equal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/2896-apply-operations-to-make-two-strings-equal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0316-remove-duplicate-letters) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -577,4 +579,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0743-network-delay-time) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
