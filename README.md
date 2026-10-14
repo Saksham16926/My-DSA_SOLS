@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0139-word-break) |
+| [0205-isomorphic-strings](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0264-ugly-number-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0424-longest-repeating-character-replacement) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0139-word-break) |
+| [0205-isomorphic-strings](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0205-isomorphic-strings) |
 | [0316-remove-duplicate-letters](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0316-remove-duplicate-letters) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0424-longest-repeating-character-replacement) |
