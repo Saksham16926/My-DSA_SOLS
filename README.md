@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0205-isomorphic-strings) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0785-is-graph-bipartite) |
