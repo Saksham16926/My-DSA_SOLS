@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0518-coin-change-ii) |
+| [0525-contiguous-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0628-maximum-product-of-three-numbers) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0508-most-frequent-subtree-sum](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0508-most-frequent-subtree-sum) |
+| [0525-contiguous-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0525-contiguous-array) |
 | [0652-find-duplicate-subtrees](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0652-find-duplicate-subtrees) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [3903-smallest-stable-index-i](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/3903-smallest-stable-index-i) |
