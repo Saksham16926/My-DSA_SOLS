@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0299-bulls-and-cows) |
 | [0424-longest-repeating-character-replacement](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0508-most-frequent-subtree-sum](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0508-most-frequent-subtree-sum) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0316-remove-duplicate-letters) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0424-longest-repeating-character-replacement) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0299-bulls-and-cows) |
 | [1079-letter-tile-possibilities](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1079-letter-tile-possibilities) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 ## Monotonic Stack
