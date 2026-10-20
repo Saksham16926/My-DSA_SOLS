@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0647-palindromic-substrings) |
+| [0650-2-keys-keyboard](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0650-2-keys-keyboard) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0931-minimum-falling-path-sum](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0931-minimum-falling-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0968-binary-tree-cameras) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0628-maximum-product-of-three-numbers) |
+| [0650-2-keys-keyboard](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0650-2-keys-keyboard) |
 | [1025-divisor-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1025-divisor-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1979-find-greatest-common-divisor-of-array) |
