@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0347-top-k-frequent-elements](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0377-combination-sum-iv) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0743-network-delay-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Greedy
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0435-non-overlapping-intervals) |
@@ -503,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Matrix
 |  |
@@ -567,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0347-top-k-frequent-elements) |
 | [1079-letter-tile-possibilities](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1079-letter-tile-possibilities) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 ## Monotonic Stack
@@ -639,4 +645,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
