@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0299-bulls-and-cows) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0316-remove-duplicate-letters) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0242-valid-anagram) |
 | [0354-russian-doll-envelopes](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0435-non-overlapping-intervals) |
