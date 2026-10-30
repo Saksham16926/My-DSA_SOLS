@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0931-minimum-falling-path-sum) |
 | [0942-di-string-match](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0942-di-string-match) |
+| [0973-k-closest-points-to-origin](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0980-unique-paths-iii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0980-unique-paths-iii) |
 | [0983-minimum-cost-for-tickets](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0983-minimum-cost-for-tickets) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0553-optimal-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0650-2-keys-keyboard) |
+| [0973-k-closest-points-to-origin](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1025-divisor-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0743-network-delay-time) |
+| [0973-k-closest-points-to-origin](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Greedy
 |  |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0646-maximum-length-of-pair-chain) |
+| [0973-k-closest-points-to-origin](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/3536-maximum-product-of-two-digits) |
@@ -517,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0973-k-closest-points-to-origin](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0973-k-closest-points-to-origin) |
 ## Matrix
 |  |
 | ------- |
@@ -662,8 +667,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0973-k-closest-points-to-origin) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0278-first-bad-version) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
