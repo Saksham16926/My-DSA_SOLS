@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0743-network-delay-time) |
@@ -654,10 +657,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Bucket Sort
 |  |
