@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0538-convert-bst-to-greater-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0938-range-sum-of-bst) |
+| [0981-time-based-key-value-store](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0981-time-based-key-value-store) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Array
 |  |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0525-contiguous-array) |
 | [0652-find-duplicate-subtrees](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0652-find-duplicate-subtrees) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0981-time-based-key-value-store](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0981-time-based-key-value-store) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1079-letter-tile-possibilities](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1079-letter-tile-possibilities) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0942-di-string-match](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0942-di-string-match) |
+| [0981-time-based-key-value-store](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0981-time-based-key-value-store) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1079-letter-tile-possibilities](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1079-letter-tile-possibilities) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -689,4 +692,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0973-k-closest-points-to-origin) |
+## Design
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
