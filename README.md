@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0074-search-a-2d-matrix) |
 | [0099-recover-binary-search-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0099-recover-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0057-insert-interval) |
+| [0074-search-a-2d-matrix](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0088-merge-sorted-array) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0037-sudoku-solver) |
+| [0074-search-a-2d-matrix](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0200-number-of-islands) |
