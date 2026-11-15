@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1219-path-with-maximum-gold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/3483-unique-3-digit-even-numbers) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1025-divisor-game) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1162-as-far-from-land-as-possible](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1162-as-far-from-land-as-possible) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2896-apply-operations-to-make-two-strings-equal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/2896-apply-operations-to-make-two-strings-equal) |
 | [3693-climbing-stairs-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/3693-climbing-stairs-ii) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0650-2-keys-keyboard) |
 | [0973-k-closest-points-to-origin](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1025-divisor-game) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -601,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [3903-smallest-stable-index-i](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/3903-smallest-stable-index-i) |
 ## Counting
