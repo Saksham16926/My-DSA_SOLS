@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3693-climbing-stairs-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/3693-climbing-stairs-ii) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2896-apply-operations-to-make-two-strings-equal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/2896-apply-operations-to-make-two-strings-equal) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3693-climbing-stairs-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/3693-climbing-stairs-ii) |
 ## Math
 |  |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3536-maximum-product-of-two-digits](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/3536-maximum-product-of-two-digits) |
 ## Linked List
 |  |
