@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0300-longest-increasing-subsequence) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0089-gray-code) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0189-rotate-array) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0279-perfect-squares) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0205-isomorphic-strings) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0299-bulls-and-cows) |
@@ -497,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0143-reorder-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0241-different-ways-to-add-parentheses) |
 | [0390-elimination-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0390-elimination-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/3483-unique-3-digit-even-numbers) |
@@ -508,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0397-integer-replacement) |
 ## Sliding Window
@@ -679,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0032-longest-valid-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/0241-different-ways-to-add-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Saksham16926/My-DSA_SOLS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Topological Sort
 |  |
